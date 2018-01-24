@@ -1,0 +1,46 @@
+1
+Adaptador USB TP-LINK TL-WN8200ND
+Inalámbrico
+300 Mbit/s
+Negro
+Dos Antenas Externas Desmontables  5dBi USB de 1.5m
+2
+Adaptador USB TP-LINK TL-WN722N
+Inalámbrico
+150 Mbit/s
+Color blanco
+antena 4 dBi
+3
+Adaptador USB TP-LINK TL-WN727N
+USB
+150 Mbit/s
+Negro 
+4
+Adaptador USB TP-LINK Archer T2U
+USB
+600 Mbit/s
+2.4 - 5
+Negro
+5
+Adadptador Mini USB 2.0 MERCUSYS MW300UM
+Negro
+300 Mbit/s
+6
+Tarjeta de Red USB - Ethernet MANHATTAN
+USB 2.0, RJ-45
+Macho/hembra
+Color blanco
+7
+Adaptador de audio MANHATTAN
+USB 2.0 M
+Macho/hembra
+Negro
+8
+Convertidor HDMI a VGA MANHATTAN
+HDMI VGA, Micro-USB, 
+Macho/hembra, Negro
+
+
+
+
+

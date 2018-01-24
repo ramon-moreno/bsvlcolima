@@ -1,0 +1,109 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+	background-color: #fafafa;
+}
+header{
+	background-color: #26205C;
+	margin: 0;
+	padding-top: 15px;
+}
+	header h1{
+		margin: 0;
+		padding: 0;
+		letter-spacing: 2px;
+	}
+	header .help-block{
+		margin: 0;
+		letter-spacing: 2px;
+		font-size: 18px;
+		color: #26205C ;
+		padding-left: 0;
+	}
+	header div.container{
+		background-color:#26205C;
+		margin: 0;
+		padding: 0;
+		width: 100%;
+	}
+	header div.container nav{
+		margin: 0;
+		padding: 0;
+		background-color: #9291AF;
+	}
+	header div.container nav div{
+		
+	}
+	header div.container nav div ul{
+		border: solid 1px	 #1E1E1E;
+		background-color: #26205c;
+	}
+main{
+	min-height: 500px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+	main form{
+		border: 1px solid #ccc;
+		padding: 15px;
+		min-height: 300px;
+	}
+		main form div:first-child{
+			text-align: center;
+			padding-bottom: 10px;
+			border-bottom: 2px solid #eaeaea;
+		}
+			main form img{
+				width: 50%;
+			}
+		main form .datos{
+			text-align: center;
+			font-size: 12px;
+			color: #888;
+		}
+			main form .datos h2{
+				font-size: 22px;
+				color: #666;
+				margin: 5px;
+			}
+			main form .datos div:first-child{
+				margin-bottom: 25px;
+				border: none;
+			}
+			main form .datos .form-group{
+				margin: 5px;
+			}
+				main form .datos .form-group input{
+					border-radius: 0;
+					text-align: center;
+				}
+				main form .datos .form-group:first-child input{
+					border-bottom: 10px;
+				}
+				main form .datos .form-group:last-child input{
+					border-top: none;
+					border-bottom: none;
+					outline: none;
+				}
+		main form p{
+			margin-top: 20px;
+			color: #aaa;
+		}
+
+footer{
+	height: 200px;
+	border-top: 5px solid #ccc;
+	background-color: #26205C;
+}
+
+
+
+.error{
+	outline: none !important;
+	background-color: #FFFFD5;
+	box-shadow: none !important;
+}
+	.error:focus{
+		border-color: none;
+	}

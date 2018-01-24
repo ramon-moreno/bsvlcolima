@@ -1,0 +1,87 @@
+1
+Disco duro externo ADATA DashDrive Durable HD710
+Resistente a rayones
+Resistente a golpes
+Resistente al agua
+1000 GB 
+USB 3.0 (USB 2.0)
+5400 RPM
+2.5"
+Negro
+
+2
+Disco duro externo ADATA HV620
+1000 GB
+USB 3.0 (USB 2.0)
+5400 RPM
+2.5"
+Negro
+
+3
+Disco duro externo ADATA HV100
+1000 GB
+USB 3.0 (USB 2.0)
+90 MB/s
+Negro
+
+4
+Disco Duro Externo TOSHIBA HDTB310XK3AA
+1000 GB
+USB 3.0
+5400 RPM
+2.5
+
+5
+Disco duro externo ADATA HD650
+1000 GB
+USB 3.0 (USB 2.0)
+2.5"
+Negro
+
+6
+Disco duro externo TOSHIBA HDTC810XK3A1
+1000 GB
+USB 3.0
+5400 RPM
+2.5
+
+7
+Disco Duro Externo TOSHIBA HDTB320XK3CA
+2000 GB
+USB 3.0
+5400 RPM
+2.5
+
+8
+Disco Duro Externo ADATA AHD710P-2TU31-CBL
+2000 GB
+USB 3.1
+2.5"
+Azul
+
+9
+Disco duro externo ADATA HV620
+2000 GB
+USB 3.0 (USB 2.0)
+2.5"
+Negro
+
+10
+Disco duro externo TOSHIBA HDTW120XC3C1
+2000 GB
+2.5
+5000 Mbit/s
+
+11
+Disco duro externo ADATA HV620
+3000 GB 
+USB 3.0 (USB 2.0)
+2.5"
+Negro
+
+12
+Disco duro externo TOSHIBA HDTC820XR3C1
+2000 GB
+USB 3.0
+5400 RPM
+2.5

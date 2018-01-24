@@ -17,9 +17,9 @@
 				<nav class="navbar navbar-inverse">
 					<div class="container-fluid row">
 				    <div class="navbar-header col-md-2 col-xs-2">
-				     <img class="logo" src="assets\resources\images\BV oficial vector.png" alt="" width="8%" height="8%">
+				     <img class="logo" src="assets\resources\images\BV oficial vector.png" alt="" width="100%" height="100%">
 				    </div>
-				    <ul class="nav navbar-nav col-md-5 col-xs-8">
+				    <ul class="nav navbar-nav col-md-10 col-xs-8">
 				      <li class="active"><a href="#">Home</a></li>
 				      <li class="dropdown">
 				        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1
